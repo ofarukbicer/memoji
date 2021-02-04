@@ -3,6 +3,9 @@
     "description": "Belirli yazıyı emojiye dönüştür.",
     "type": "library",
     "license": "MIT",
+    "homepage": "http://github.com/omerfarukbicer0446/memoji",
+    "keywords": ["emoji","1484 emoji","memoji"],
+    "version": "1.0",
     "authors": [
         {
             "name": "omerfarukbicer0446",
