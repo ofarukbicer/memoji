@@ -3,15 +3,15 @@
 1484 emoji desteği ile sizlerle
 
 Not: Bu özel işaretler bunlara dönüştürülür
-:) = 😀
+😀 = :)
 
-:( = 😔
+😔 = :(
 
-:D = 😁
+😁 = :D
 
-:d = 😁
+😁 = :d
 
-<3 = 💙
+💙 = <3
 
 ## 📥 Kurulum
 
