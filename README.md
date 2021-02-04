@@ -4,9 +4,13 @@
 
 Not: Bu özel işaretler bunlara dönüştürülür
 :) = 😀
+
 :( = 😔
+
 :D = 😁
+
 :d = 😁
+
 <3 = 💙
 
 ## 📥 Kurulum
