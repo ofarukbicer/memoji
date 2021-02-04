@@ -1,5 +1,14 @@
 # 😝 Memoji 
 
+1484 emoji desteği ile sizlerle
+
+Not: Bu özel işaretler bunlara dönüştürülür
+:) = 😀
+:( = 😔
+:D = 😁
+:d = 😁
+<3 = 💙
+
 ## 📥 Kurulum
 
 1. Composer bilgisayarınızda kurulu olması lazımdır.
