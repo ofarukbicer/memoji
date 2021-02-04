@@ -1,0 +1,19 @@
+{
+    "name": "omerfarukbicer0446/memoji",
+    "description": "Belirli yazıyı emojiye dönüştür.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "omerfarukbicer0446",
+            "email": "omerfarukbicer0446@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Memoji\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
