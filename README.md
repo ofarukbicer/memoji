@@ -3,6 +3,7 @@
 1484 emoji desteği ile sizlerle
 
 Not: Bu özel işaretler bunlara dönüştürülür
+
 😀 = :)
 
 😔 = :(
