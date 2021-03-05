@@ -1500,4 +1500,9 @@ class Start {
         $str = str_replace(array_keys($this->emojis), $this->emojis, $str);
         return $str;
     }
+    
+    public function text_decode($str) {
+        $str = str_replace($this->emojis, array_keys($this->emojis), $str);
+        return $str;
+    }
 }
